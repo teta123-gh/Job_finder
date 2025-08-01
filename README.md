@@ -38,7 +38,8 @@ The **Job Finder App** is a simple web application that allows users to search f
 ```bash
 git clone https://github.com/teta123-gh/job-finder.git
 cd job-finder
-``` Here is my video 
+
+ Here is my video 
 Watch on YouTube: [](https://youtu.be/2u0Tyk1xGuM)
 
 
