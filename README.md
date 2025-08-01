@@ -41,8 +41,10 @@ cd job-finder
 ```
  Here is my video
 ```
-Watch on YouTube: [](https://youtu.be/2u0Tyk1xGuM)
-
+Watch on YouTube:
+```
+[](https://youtu.be/2u0Tyk1xGuM)
+```
 
 
 
