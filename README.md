@@ -44,7 +44,6 @@ cd job-finder
 Watch on YouTube:
 ```
 https://youtu.be/2u0Tyk1xGuM
-
 ```
 
 
