@@ -38,10 +38,8 @@ The **Job Finder App** is a simple web application that allows users to search f
 ```bash
 git clone https://github.com/teta123-gh/job-finder.git
 cd job-finder
-### **Here is the video and the pictures **
-[![Watch on YouTube](https://img.youtube.com/vi/2u0Tyk1xGuM/0.jpg)](https://youtu.be/2u0Tyk1xGuM)
+
+[Watch on YouTube](https://youtu.be/2u0Tyk1xGuM)
 
 
-![Uploading WhatsApp Image 2025-08-01 at 11.12.07_e39605de.jpg…]()
-![WhatsApp Image 2025-08-01 at 11 12 08_a21c7b36](https://github.com/user-attachments/assets/ea1a899c-3a9c-4b07-ba12-305aa95f5ffc)
 
